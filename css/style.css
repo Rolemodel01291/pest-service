@@ -131,6 +131,24 @@ h1, h2, h3, h4, h5,
   background-size: cover;
   background-repeat: no-repeat; }
 
+.call-to-action {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  display: none;
+}
+
+.call-to-action > a{
+  padding: 8px 9px 8px 10px !important;
+}
+
+.call-to-action.awake {
+  display: block;
+  -webkit-transition: .3s all ease-out;
+  -o-transition: .3s all ease-out;
+  transition: .3s all ease-out;
+}
+
 .ftco-cover {
   background-position: center center; }
   .ftco-cover .ftco-heading {
