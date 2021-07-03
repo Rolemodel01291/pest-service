@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5,
 
 .btn {
   border-radius: 4px;
-  padding: 20px 30px;
+  padding: 10px 15px;
   font-size: 14px;
   letter-spacing: .1em;
   text-transform: uppercase;
@@ -269,7 +269,7 @@ textarea {
 
 .ftco-section,
 .ftco-footer {
-  padding: 7em 0 7em 0; }
+  padding: 2em 0 2em 0; }
   .ftco-section.ftco-slant,
   .ftco-footer.ftco-slant {
     padding: 7em 0 22em 0; }
